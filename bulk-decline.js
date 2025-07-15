@@ -1,4 +1,7 @@
 // === FB Group Moderator PRO v3.1 (Console Edition) ===
+// === join to our group: https://t.me/craftdeal ===
+// follow me in facebook: https://www.facebook.com/islambnahmed/
+
 (() => {
   if (window.__FB_MOD_31__) { console.warn('Panel already active'); return; }
   window.__FB_MOD_31__ = true;
