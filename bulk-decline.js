@@ -16,7 +16,7 @@
      box-shadow:0 4px 14px rgba(0,0,0,.6);user-select:none}
    #fbBar{display:flex;align-items:center;justify-content:space-between;
      padding:6px 10px;background:#3b4047;border-radius:8px 8px 0 0;cursor:grab}
-   #fbBar span{font-weight:bold}
+   #fbBar span{font-weight:bold}f
    #fbBody{padding:10px}
    #fbBody label{display:block;margin:4px 0}
    #fbBody input[type=number]{width:72px;margin-left:3px;background:#1f2125;color:#fff;
@@ -34,7 +34,7 @@
   if(pos.x!=null){ box.style.left=pos.x+'px'; box.style.top=pos.y+'px';
                    box.style.bottom='auto'; box.style.right='auto'; }
   box.innerHTML = `
-    <div id="fbBar"><span>FB Mod PRO</span><div style="cursor:move">☰</div></div>
+    <div id="fbBar"><span>FB Mod PRO By islam Ahmed</span><div style="cursor:move">☰</div></div>
     <div id="fbBody">
       <label>Action:
         <select id="act"><option value="decline">Decline / Reject</option>
